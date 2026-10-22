@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets (none are used in this project)
+.env
+*.key
+
+# The SQLite database and CSV files are committed on purpose so the project
+# opens ready to use. Temporary SQLite files are not:
+*.db-journal
+*.db-wal
+*.db-shm

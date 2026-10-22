@@ -1,0 +1,101 @@
+product_id,product_name,category_id,unit_price,unit_cost
+1,Wireless Earbuds Pro,1,89.99,68.22
+2,Bluetooth Speaker Mini,1,49.99,39.24
+3,Smart Watch Series 4,1,199.99,150.25
+4,4K Streaming Stick,1,39.99,30.56
+5,Noise-Cancelling Headphones,1,149.99,121.86
+6,Portable Power Bank 20K,1,34.99,25.96
+7,Smart Home Camera,1,79.99,60.72
+8,Fitness Tracker Band,1,59.99,45.42
+9,Digital Camera Compact,1,329.99,267.21
+10,Ultrabook 14-inch Laptop,2,899.99,736.62
+11,Mechanical Keyboard TKL,2,79.99,65.92
+12,Wireless Ergonomic Mouse,2,29.99,23.55
+13,27-inch IPS Monitor,2,229.99,185.13
+14,USB-C Docking Station,2,119.99,95.08
+15,1TB Portable SSD,2,99.99,81.89
+16,Laptop Backpack 15-inch,2,44.99,37.53
+17,Webcam 1080p,2,49.99,40.55
+18,Stainless Steel Cookware Set,3,129.99,83.66
+19,Programmable Coffee Maker,3,69.99,39.7
+20,Cast Iron Skillet 12-inch,3,34.99,20.53
+21,Chef's Knife 8-inch,3,44.99,25.83
+22,Air Fryer 5-Quart,3,89.99,55.3
+23,Glass Food Storage Set,3,24.99,13.82
+24,Cotton Bath Towel Set,3,39.99,22.42
+25,Bamboo Cutting Board,3,19.99,11.44
+26,Robot Vacuum Cleaner,3,249.99,157.63
+27,Oak Bookshelf 5-Tier,4,189.99,105.13
+28,Ergonomic Office Chair,4,249.99,148.9
+29,Standing Desk Adjustable,4,399.99,233.82
+30,Fabric Accent Chair,4,219.99,116.97
+31,Queen Platform Bed Frame,4,449.99,236.48
+32,Walnut Coffee Table,4,159.99,80.51
+33,TV Console Cabinet,4,279.99,158.87
+34,Classic Oxford Shirt,5,49.99,23.14
+35,Slim Fit Chino Pants,5,54.99,24.91
+36,Merino Wool Sweater,5,79.99,38.48
+37,Waterproof Rain Jacket,5,99.99,48.7
+38,Cotton Crew T-Shirt 3-Pack,5,29.99,13.57
+39,Dark Wash Denim Jeans,5,64.99,31.02
+40,Performance Polo Shirt,5,39.99,17.32
+41,Fleece Zip Hoodie,5,59.99,27.37
+42,Linen Blend Blouse,6,44.99,17.85
+43,High-Rise Straight Jeans,6,69.99,28.69
+44,Wrap Midi Dress,6,79.99,35.9
+45,Cashmere Blend Cardigan,6,109.99,43.64
+46,Everyday Leggings,6,34.99,13.98
+47,Quilted Puffer Vest,6,89.99,39.71
+48,Cotton Pajama Set,6,39.99,18.04
+49,Tailored Work Blazer,6,119.99,49.41
+50,Trail Running Shoes,7,119.99,64.32
+51,Leather Chelsea Boots,7,149.99,79.5
+52,Canvas Low-Top Sneakers,7,54.99,30.2
+53,Memory Foam Slippers,7,29.99,14.13
+54,Waterproof Hiking Boots,7,139.99,67.69
+55,Everyday Sandals,7,34.99,16.78
+56,Leather Dress Loafers,7,99.99,47.19
+57,Yoga Mat Non-Slip,8,29.99,17.22
+58,Adjustable Dumbbell Pair,8,149.99,84.46
+59,2-Person Camping Tent,8,139.99,84.84
+60,Insulated Water Bottle 32oz,8,24.99,15.21
+61,Resistance Band Set,8,19.99,11.06
+62,Trekking Poles Pair,8,59.99,34.37
+63,Road Bike Helmet,8,64.99,36.62
+64,Foam Roller Deep Tissue,8,22.99,12.5
+65,Sleeping Bag 20F,8,89.99,50.08
+66,Vitamin C Face Serum,9,28.99,10.96
+67,Daily Moisturizer SPF 30,9,22.99,8.67
+68,Electric Toothbrush,9,59.99,24.63
+69,Argan Oil Shampoo,9,14.99,6.69
+70,Matte Lipstick Set,9,24.99,9.83
+71,Beard Grooming Kit,9,32.99,13.93
+72,Hydrating Sheet Masks 10-Pack,9,16.99,6.74
+73,Mineral Sunscreen SPF 50,9,18.99,6.44
+74,Hair Dryer Ionic,9,49.99,20.98
+75,Building Brick Set 500pc,10,39.99,23.76
+76,Strategy Board Game,10,34.99,20.01
+77,Remote Control Off-Road Car,10,54.99,31.38
+78,1000-Piece Jigsaw Puzzle,10,19.99,10.67
+79,Wooden Train Set,10,44.99,24.49
+80,Art Supplies Creative Kit,10,27.99,14.6
+81,Plush Bear Large,10,24.99,13.33
+82,Family Card Game Bundle,10,14.99,8.38
+83,Hardcover Fiction Bestseller,11,24.99,14.21
+84,Cookbook: Weeknight Dinners,11,29.99,18.99
+85,Dotted Bullet Journal,11,16.99,11.0
+86,Gel Pen Set 24-Color,11,12.99,8.33
+87,Business Strategy Paperback,11,18.99,10.97
+88,Children's Picture Book,11,12.99,7.84
+89,Desk Planner 2025,11,14.99,9.5
+90,Sketchbook A4 Hardbound,11,15.99,9.59
+91,History Nonfiction Hardcover,11,27.99,17.77
+92,Single-Origin Coffee Beans 12oz,12,13.99,10.13
+93,Organic Olive Oil 500ml,12,11.99,8.92
+94,Mixed Nuts Variety Tin,12,9.99,7.49
+95,Loose Leaf Green Tea,12,8.99,6.8
+96,Artisan Pasta Sampler,12,7.99,5.83
+97,Dark Chocolate Assortment,12,12.99,9.76
+98,Wildflower Honey Jar,12,9.49,7.34
+99,Granola Family Pack,12,6.99,5.39
+100,Hot Sauce Gift Set,12,15.99,11.24
